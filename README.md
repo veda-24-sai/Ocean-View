@@ -1,9 +1,11 @@
 Ocean View
+
 The "Ocean View" is a web-based solution designed to provide tourists with insights into India's coastal areas, ensuring better planning for coastal visits. This application is intended to integrate real-time data about oceanic and meteorological conditions in future development phases.
 
 Firstly we are providing a login page to the user so that to get the acces to their live location.From there user gets into the search page to find out the weather conditions(Oceanic and meterological parametrs) of the beaches that they wanted to travel. Based on their search they will get the complete information about that particular beach which includes weather conditions of that beach till seven days , summary of present day's weather condiiton , along with geo spatical maps(based on the color codes user can easily understand about weather conditions) , and for users safety and comfort they can access the infomation about near by ammenities.
 
 Current Project Status: 
+
 As of now, the project is in its frontend development phase, with a static webpage created using HTML and CSS. 
 
 The current implementation includes:
